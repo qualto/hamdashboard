@@ -68,7 +68,7 @@ const aIMG = [
     "ISS & RS-44 POSITION",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
-  ]
+  ],
  ];
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
 const tileDelay = [11200,10000,11000,10100];
