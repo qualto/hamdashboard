@@ -1,3 +1,5 @@
+A modified version that has a 2 x 2 grid instead of the default 4 x 3.
+
 Original VA3HDL [YouTube - Presentation video](https://www.youtube.com/watch?v=sIdqMQTGNSc)
 
 ### User submitted live Dashboards:
